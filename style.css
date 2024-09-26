@@ -1,0 +1,210 @@
+.bdy{
+    justify-content: space-around;
+}
+
+.r {
+    color: #FD6E0A;
+}
+
+.port {
+    display: flex;
+    gap: 20px;
+    list-style-type: none;
+    color: #474747;
+}
+
+.encr {
+    text-decoration: none;
+    color: grey;
+}
+.ensr{
+    text-decoration: none;
+    color:#FFFFFF;
+}
+.nab {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 60px;
+    margin-right: 60px;
+
+
+}
+
+.ma {
+    font-size: 32px;
+
+}
+.btm{
+    
+    padding: 8px 10px;
+    background-color:#FD6E0A;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: px;
+    
+
+}
+.bt1{
+    background-color: #FD6E0A;
+    padding: 8px;
+    color: white;
+
+}
+.bt2{
+    background-color: rgb(222, 204, 204);
+    border: 2px solid #FD6E0A;
+    color:white;
+    padding: 8px;
+}
+.ps{
+    display: flex;
+    margin-left: 80px;
+    justify-content: space-between;
+}
+.likha{
+    margin-top:150px;
+}
+.p1{
+    background-image:url(bac.png) ;
+   background-repeat: no-repeat;
+      background-size: cover;
+      
+      /* Move the background image downward (example: 100px down) */
+      background-position: center 100px;
+  
+  
+}
+.sec1{
+background-color: #edeae6;
+margin-left: 100px;
+
+
+}
+.sec2{
+    height: 300px;
+    text-align: center;
+background-color:#FFF8F3;
+margin: 100px 500px 100px 500px; /* top right bottom left */
+
+
+}
+.text{
+    display: flex;
+    gap:120px;    list-style-type: none;
+    justify-content: center;
+    color: gray;
+} 
+.text2{
+    display: flex;
+    gap:100px;
+    list-style-type: none;
+    justify-content: center;
+    color: black;
+    font-weight: bold;
+}
+.sec3
+{
+    text-align: center;
+}
+.flbox{
+    display: flex;
+    justify-content: center; /* Aligns items with space between them */
+    align-items: center; /* Centers items vertically */
+    /*height: 200px; /* Full height of the viewport */
+    /*background-color: #36608a; /* Bootstrap blue */
+}
+
+.box{
+    height: 300px;
+    width: 300px;
+    background-color:#FFFFFF; /* Bootstrap blue */
+    color:#757575;
+    margin: 20px;
+    text-align: left;
+}
+.bold2{
+    color:#181818;
+}
+
+
+.bts{
+    padding: 5px 10px;
+    background-color:#FD6E0A;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: px;
+    
+}
+.re{
+    text-align: center;
+}
+
+.sec4{
+    display: flex;
+    gap: 100px;
+    margin: 100px 400px;
+}
+.button-container {
+    text-align: center;
+}
+
+.download-btn {
+    padding: 10px 20px;
+    background-color:#FD6E0A;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 20px;
+    
+}
+footer
+{
+background-color:#FFF8F3;
+position: absolute;
+top: 300%;
+
+}
+.last{
+    
+    display: flex;
+    display: flex;
+    gap: 100px;
+    margin: 100px 500px;
+
+}
+p{
+    color: #757575;
+}
+
+h6{
+    color: #757575;
+
+}
+.debplr{
+    position: absolute;
+   
+    
+    margin-right: 100px;
+
+}
+#msg{
+    height:200px;
+    width:150% ;
+    border: none;
+    text-align: top;
+    
+}
+#mm{
+    height:30px;
+    width:150% ;
+    border: none;
+}
+#em
+{
+    height:30px;
+    width:150% ;
+    border:none;
+}
